@@ -1,6 +1,6 @@
 # Проект для тестового задание
 
-![task](https://github.com/Artanisky/test-task/raw/main/task.png "Описание")
+![task](https://github.com/Artanisky/test-task/raw/master/task.png "Описание")
 
 Чтобы работал подсчет через 2GIS требуется API ключ ([получить](https://dev.2gis.ru/order/))
 
